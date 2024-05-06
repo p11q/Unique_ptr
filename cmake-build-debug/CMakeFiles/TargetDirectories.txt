@@ -1,0 +1,6 @@
+/home/user/Projects/C++/Unique_ptr/cmake-build-debug/CMakeFiles/Unique_ptr.dir
+/home/user/Projects/C++/Unique_ptr/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user/Projects/C++/Unique_ptr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/user/Projects/C++/Unique_ptr/cmake-build-debug/Tests/CMakeFiles/UP_test.dir
+/home/user/Projects/C++/Unique_ptr/cmake-build-debug/Tests/CMakeFiles/edit_cache.dir
+/home/user/Projects/C++/Unique_ptr/cmake-build-debug/Tests/CMakeFiles/rebuild_cache.dir
